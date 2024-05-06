@@ -15,11 +15,16 @@
     "@tamagui/animations-css": "^1.96.0",
     "@tamagui/core": "^1.96.0",
     "@tamagui/create-theme": "^1.96.0",
-    "@tamagui/react-native-svg": "^1.96.0",
+    "@tamagui/font-inter": "^1.96.0",
     "expo-linear-gradient": "^12.7.2",
+    "prettier": "^3.2.5",
     "react": "^18.2.0",
+    "react-beautiful-dnd": "^13.1.1",
+    "react-decision-tree-flow": "^2.1.0",
     "react-dom": "^18.2.0",
+    "react-modal": "^3.16.1",
     "react-native-web": "^0.19.10",
+    "react18-json-view": "^0.2.8",
     "tamagui": "^1.96.0"
   },
   "devDependencies": {

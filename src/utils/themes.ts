@@ -1,5 +1,5 @@
-import type { MaskOptions } from '@tamagui/create-theme'
 import {
+  MaskOptions,
   addChildren,
   applyMask,
   createStrengthenMask,
@@ -59,10 +59,13 @@ export const themes = (() => {
     backgroundHover: 3,
     backgroundPress: 4,
     backgroundFocus: 2,
+    backgroundStrong: 1,
+    backgroundTransparent: 0,
     color: -1,
     colorHover: -2,
     colorPress: -1,
     colorFocus: -2,
+    colorTransparent: -0,
     borderColor: 4,
     borderColorHover: 5,
     borderColorPress: 3,
